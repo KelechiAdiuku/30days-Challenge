@@ -203,7 +203,7 @@ img.icon {
      background-color: hsl(217, 19%, 35%);
      border-radius: 0px 0px 6px 6px;
      padding: 5px 0;
-     position: fixed;
+     position: absolute;
      z-index: 0;
      left: 75px;
      top: 426px;
