@@ -205,7 +205,7 @@ img.icon {
      padding: 0 0;
      position: absolute;
      z-index: 0;
-     left: 75px;
+     left: 25px;
      top: 420px;
      color: hsl(214, 17%, 51%);
      letter-spacing: 4px;
@@ -223,6 +223,7 @@ img.icon {
    .tooltiptext span {
        margin-left: 0px;
        padding-top: 1px;
+       padding-left: 3px;
    }
   .tooltiptext img {
      width: 15px;
