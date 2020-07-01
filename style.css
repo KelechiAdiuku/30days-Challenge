@@ -222,7 +222,7 @@ img.icon {
           position: absolute;
           top: 67px;
           left: 418px;
-          margin-left: 5px;
+          margin-left: auto;
           border-width: 5px;
           border-style: solid;
           border-color: hsl(217, 19%, 35%) transparent transparent transparent;
