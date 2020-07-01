@@ -205,8 +205,8 @@ img.icon {
      padding: 5px 0;
      position: fixed;
      z-index: 0;
-     left: 67px;
-     top: 418px;
+     left: 75px;
+     top: 426px;
      color: hsl(214, 17%, 51%);
      letter-spacing: 4px;
      margin-bottom: 20px;
@@ -220,9 +220,9 @@ img.icon {
   .socialshare .tooltiptext::after {
           content: "";
           position: absolute;
-          top: 67px;
-          left: 418px;
-          margin-left: auto;
+          top: 100%;
+          left: 50%;
+          margin-left: 5px;
           border-width: 5px;
           border-style: solid;
           border-color: hsl(217, 19%, 35%) transparent transparent transparent;
