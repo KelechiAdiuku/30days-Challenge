@@ -217,11 +217,11 @@ img.icon {
      transition: 0.5s;
   }
 
-  .tooltip .tooltiptext::after {
+  .socialshare .tooltiptext::after {
           content: "";
           position: absolute;
-          top: 100%;
-          left: 50%;
+          top: 67px;
+          left: 418px;
           margin-left: 5px;
           border-width: 5px;
           border-style: solid;
