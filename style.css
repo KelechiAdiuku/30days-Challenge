@@ -199,14 +199,14 @@ img.icon {
   .socialshare .tooltiptext{
      visibility: hidden;
      width: 350px;
-     height: 50px;
+     height: 60px;
      background-color: hsl(217, 19%, 35%);
      border-radius: 0px 0px 6px 6px;
-     padding: 5px 0;
+     padding: 0 0;
      position: absolute;
      z-index: 0;
      left: 75px;
-     top: 426px;
+     top: 420px;
      color: hsl(214, 17%, 51%);
      letter-spacing: 4px;
      margin-bottom: 20px;
@@ -217,23 +217,11 @@ img.icon {
      transition: 0.5s;
   }
 
-  .tooltip .tooltiptext::after {
-          content: "";
-          position: absolute;
-          top: 100%;
-          left: 50%;
-          margin-left: 5px;
-          border-width: 5px;
-          border-style: solid;
-          border-color: hsl(217, 19%, 35%) transparent transparent transparent;
-          border-radius: 50%;
-        }
-
    .socialshare:hover .tooltiptext {
      visibility: visible;
    }
    .tooltiptext span {
-       margin-left: 15px;
+       margin-left: 0px;
        padding-top: 1px;
    }
   .tooltiptext img {
