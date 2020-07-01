@@ -221,9 +221,8 @@ img.icon {
      visibility: visible;
    }
    .tooltiptext span {
-       margin-left: 0px;
+       margin-left: 15px;
        padding-top: 1px;
-       padding-left: 3px;
    }
   .tooltiptext img {
      width: 15px;
